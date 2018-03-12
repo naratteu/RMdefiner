@@ -1,4 +1,0 @@
-#TEMP1=좆좆좆좆
-#TEMP2=개
-#TEMP3=쉽
-#TEMP4=빠
